@@ -1,6 +1,5 @@
 # STIGS
 
-<#
 .SYNOPSIS
     This PowerShell script ensures that the use of Microsoft accounts for sign-in is disabled, in compliance with DISA STIG ID WN10-AC-000005.
 
