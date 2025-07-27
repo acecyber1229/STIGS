@@ -1,10 +1,10 @@
-# 💻 STIG Remediation Script: WN10-AC-000005
+# STIG Remediation Script: WN10-AC-000005
 
-## 📌 Description
+## Description
 
 This PowerShell script remediates the DISA STIG **WN10-AC-000005**, which requires **disabling Microsoft accounts for sign-in** on Windows 10 systems. This control helps ensure that users cannot connect personal Microsoft accounts to domain-joined systems, supporting compliance and reducing security risks in enterprise environments.
 
-## 🛡️ STIG Details
+## STIG Details
 
 | STIG ID         | WN10-AC-000005 |
 |-----------------|----------------|
@@ -16,7 +16,7 @@ This PowerShell script remediates the DISA STIG **WN10-AC-000005**, which requir
 
 ---
 
-## 🧪 Tested On
+## Tested On
 
 | Attribute        | Value                        |
 |------------------|------------------------------|
@@ -27,7 +27,7 @@ This PowerShell script remediates the DISA STIG **WN10-AC-000005**, which requir
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ```powershell
 # Run in an elevated PowerShell terminal
